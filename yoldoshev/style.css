@@ -1,0 +1,41 @@
+div{
+    display: flex;
+}
+
+p{
+    background-color: #55f602;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(24, 204, 4);
+    transition: transform 0.10s ease;
+}
+
+.card1:hover{
+    transform: scale(1.1);
+}
+
+p{
+    background-color: #55f602;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(24, 204, 4);
+    transition: transform 0.10s ease;
+}
+
+.card2:hover{
+    transform: scale(1.1);
+}
+p{
+    background-color: #55f602;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(24, 204, 4);
+    transition: transform 0.10s ease;
+}
+
+.card3:hover{
+    transform: scale(1.1);
+}
